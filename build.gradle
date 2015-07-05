@@ -58,7 +58,7 @@ dependencies {
     compile("javax.el:el-api:2.2")
     compile("javax.servlet:javax.servlet-api:3.1.0")
     compile("com.sun.faces:jsf-api:2.1.7")
-    compile("com.sun.faces:jsf-impl:2.1.7")
+    runtime("com.sun.faces:jsf-impl:2.1.7")
     runtime("com.h2database:h2")
     compile("org.springframework.boot:spring-boot-starter-tomcat")
 
