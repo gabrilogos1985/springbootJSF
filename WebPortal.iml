@@ -212,6 +212,7 @@
     <orderEntry type="library" exported="" name="Gradle: org.apache.tomcat.embed:tomcat-embed-logging-juli:8.0.23" level="project" />
     <orderEntry type="library" exported="" name="Gradle: org.apache.tomcat.embed:tomcat-embed-websocket:8.0.23" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.sun.faces:jsf-api:2.1.7" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: org.primefaces:primefaces:5.2" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.sun.faces:jsf-impl:2.1.7" level="project" />
   </component>
 </module>
